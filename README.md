@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dario, a former Fulbrighter and PhD student in Aerospace Engineering at the Univeristy of Illinois at Urbana Champaign collaborating at the [ESDL](http://systemdesign.illinois.edu/home/).
+I'm Dario, a PhD student in Aerospace Engineering at the Univeristy of Illinois at Urbana Champaign collaborating at the [ESDL](http://systemdesign.illinois.edu/home/).
 I am currently working on implementing Multdisciplinary Design Optimization methods to the design of scramjets at [CEESD](https://ceesd.illinois.edu/).
 
 My interests range from computer science topics like high performance computing, numerical optimization and machine learning to aeropsace subjects like aircraft multidisciplinary design optimization that involve that integration of aerodynamics and propulsion 
