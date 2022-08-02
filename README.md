@@ -9,7 +9,7 @@ I'm profficient in Python (best language ever), Matlab, Latex, Shell. Currently 
 
 Here are some stats: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dario)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalexan10)](https://github.com/anuraghazra/github-readme-stats)
 
 Updating
 
