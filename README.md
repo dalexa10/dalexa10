@@ -6,7 +6,9 @@ You can follow my previous work and publications here [Research Gate](https://ww
 
 My interests range from computer science topics like high performance computing, numerical optimization and machine learning to aeropsace subjects like aircraft multidisciplinary design optimization that integrate aerodynamics, propulsion and performance.
 
-I'm profficient in Python (best language ever, isn't it?), Matlab, Latex, Shell. Currently improving my Git, Fortran and C++ skills.
+I'm profficient in Python (best language ever, isn't it?), Matlab, Latex, Shell, Git. Currently learning CUDA C, Fortran and C++.
+
+
 
 Hobbies: mobile robotics (try ROS!), fixed-wing UAVs (Design: OpenVSP, SUAVE - Hardware: Pixhawk)  
 
@@ -21,7 +23,7 @@ Updating...
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on implementing 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
