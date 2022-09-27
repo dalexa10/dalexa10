@@ -16,7 +16,6 @@ Here are some stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalexa10)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on implementing a MDAO methodology on the design process of a hypersonic ramjet (Scramjet) by using the NASA software [OpenMDAO](https://openmdao.org/newdocs/versions/latest/main.html), a modified version of [PyCycle](https://github.com/OpenMDAO/pyCycle) and [MirgeCOM](https://github.com/illinois-ceesd/mirgecom), isn't that cool?
 - 🌱 I’m currently learning CUDA with C and C++ and TensorFlow
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--
 **dalexa10/dalexa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on implementing 
 - 🌱 I’m currently learning ...
