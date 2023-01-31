@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Dario, a PhD student in Aerospace Engineering at the Univeristy of Illinois at Urbana Champaign collaborating at the [ESDL](http://systemdesign.illinois.edu/home/).
-I am currently working on implementing Multdisciplinary Design Optimization methods to the design of scramjets at [CEESD](https://ceesd.illinois.edu/).
+I'm Dario, a PhD student in Aerospace Engineering at the Univeristy of Illinois at Urbana Champaign collaborating at the [Engineering Systems Design Lab](http://systemdesign.illinois.edu/home/).
+I am currently working on implementing Multdisciplinary Design Optimization methods to the design of scramjets at [Center of Exascale-Enabled for Scramjet Design](https://ceesd.illinois.edu/).
 You can follow my previous work and publications here [Research Gate](https://www.researchgate.net/profile/Dario-Rodriguez-5), [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ou120RAAAAAJ)
 
 My interests range from computer science topics like high performance computing, numerical optimization and machine learning to aeropsace subjects like aircraft multidisciplinary design optimization that integrate aerodynamics, propulsion and performance.
